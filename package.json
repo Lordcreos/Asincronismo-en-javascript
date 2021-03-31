@@ -4,7 +4,9 @@
   "description": "escuela platzi de javascript",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callbacks/index.js"
+    "callback": "node src/callbacks/index.js",
+
+    "challenge": "node src/callbacks/challenge.js"
   },
   "repository": {
     "type": "git",
